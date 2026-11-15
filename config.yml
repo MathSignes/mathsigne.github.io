@@ -3,3 +3,9 @@ description: Articles, cours et démonstrations mathématiques
 theme: minima
 markdown: kramdown
 mathjax: true
+header_pages:
+  - algebre.md
+  - analyse.md
+  - geometrie.md
+  - probabilites.md
+  - apropos.md
